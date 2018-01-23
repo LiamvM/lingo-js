@@ -1,0 +1,23 @@
+#flexbox {
+	display: flex;
+	height: 600px;
+	width: 600px;
+	flex-wrap: wrap;
+	margin: auto;
+}
+
+div input {
+	width: 19%;
+	background-color: #0080FF;
+	text-align: center;
+	font-size: 60px;
+	font-family: arial;
+	color: white;
+	text-transform: uppercase;
+	border: 1px solid white;
+	outline: none;
+}
+
+body {
+	background-color: #0080FF;
+}
